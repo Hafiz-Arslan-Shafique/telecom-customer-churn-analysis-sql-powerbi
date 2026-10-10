@@ -1,7 +1,7 @@
 # 📡 Telecom Customer Churn Analysis — SQL Server & Power BI
 
 ## 📌 Project Overview
-**End-to-end churn analysis of the data of 7,043 telecom customers** — from SQL Server cleaning and KPI logic to an interactive Power BI dashboard, uncovering exactly which customers are leaving, which payment/contract patterns drive it, and how much revenue is at stake.
+**This project analyzes 7,043 telecom customers** to find why customers are leaving and which groups carry the most risk, so retention spending can be aimed at the right customers. It uncovers that **1,869 customers (26.54%) have left, taking about $139K a month ($1.67M a year) in recurring revenue with them**, and that **month-to-month contracts (42.7% churn), fiber optic internet (41.9%) and electronic check payers (45.3%)** drive the loss, with month-to-month customers alone making up **89% of everyone who left**. It provides a targeted retention plan: bringing electronic check customers to the churn level of other payment methods alone could keep **about 668 customers and about $630K a year**.
 
 ## The Analysis Covers:
 - [Business Problem](#business-problem)
